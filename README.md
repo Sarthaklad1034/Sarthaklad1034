@@ -1,7 +1,7 @@
-[![MasterHead](https://media.istockphoto.com/id/1290455818/vector/programming-coding-neural-network-and-artificial-intelligence-or-ai-software-develop.jpg?s=2048x2048&w=is&k=20&c=rZjPZ-vPkFaDrBppYpS_NGFBR5M4kMz6z3dxNzhykV4=)]
+![MasterHead](https://camo.githubusercontent.com/5bbc91d8bdb210e75aa75ec06079c82e9ba05c78707a9e36d3671fe014ba01e1/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Sarthak Lad</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaklad1034&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaklad1034" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and Python**
 
-- 📝 I regularly write articles on [www.hashnode.com/@Sarthak1034](www.hashnode.com/@Sarthak1034)
+- 📝 I regularly write articles on [www.hashnode.com/@Sarthak1034](https://www.hashnode.com/@Sarthak1034)
 
 - 💬 Ask me about **Front End Development, Java**
 
