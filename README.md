@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sarthaklad1034@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">                Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sarthak-lad" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="sarthak-lad" height="40" width="40" /></a> &nbsp;
 <a href="https://instagram.com/tech_bravo_786" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="tech_bravo_786" height="45" width="45" /></a> &nbsp;
