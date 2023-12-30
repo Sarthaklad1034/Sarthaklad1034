@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and Data Science**
 
-- 📝 I regularly write articles on [www.hashnode.com/@Sarthak1034](https://www.hashnode.com/@InfinitySurvivor)
+- 📝 I regularly write articles on [www.hashnode.com/@InfinitySurvivor](https://www.hashnode.com/@InfinitySurvivor)
 
 - 💬 Ask me about **Front End Development, Java**
 
