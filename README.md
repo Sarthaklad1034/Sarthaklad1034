@@ -1,4 +1,5 @@
-![welcome to Tech Oasis (1)](https://github.com/Sarthaklad1034/Sarthaklad1034/assets/135553451/c707b0d1-0fec-4495-913b-695f7414cef2)
+![MasterHead](https://github.com/Sarthaklad1034/Sarthaklad1034/assets/135553451/11be63cb-5b9e-4002-8259-710e0c917e11)
+
 
 <h1 align="center">Hi 👋, I'm Sarthak Lad</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
