@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **QR Code Reader**
 
-- 🌱 I’m currently learning **Cyber Security and Python**
+- 🌱 I’m currently learning **Cyber Security and Data Science**
 
-- 📝 I regularly write articles on [www.hashnode.com/@Sarthak1034](https://www.hashnode.com/@Sarthak1034)
+- 📝 I regularly write articles on [www.hashnode.com/@Sarthak1034](https://www.hashnode.com/@InfinitySurvivor)
 
 - 💬 Ask me about **Front End Development, Java**
 
