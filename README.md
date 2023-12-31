@@ -33,5 +33,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarthaklad1034&show_icons=true&locale=en" alt="sarthaklad1034" width="620" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1000"/></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1000"/></a></p>
+
 
