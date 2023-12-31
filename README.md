@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaklad1034&show_icons=true&locale=en" alt="sarthaklad1034" /></p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Sarthaklad1034?theme=unicorn&font=baloo&extension=null)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1000)](https://git.io/streak-stats)</p>
 
 
