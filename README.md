@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Sarthaklad1034/Sarthaklad1034/assets/135553451/11be63cb-5b9e-4002-8259-710e0c917e11)
-![LeetCode Stats](https://leetcode.card.workers.dev/Sarthaklad1034?theme=unicorn&font=baloo&extension=null)
+
 
 <h1 align="center">Hi 👋, I'm Sarthak Lad</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaklad1034&show_icons=true&locale=en" alt="sarthaklad1034" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaklad1034&" alt="sarthaklad1034" /></p>
+![LeetCode Stats](https://leetcode.card.workers.dev/Sarthaklad1034?theme=unicorn&font=baloo&extension=null)</p>
 
 
