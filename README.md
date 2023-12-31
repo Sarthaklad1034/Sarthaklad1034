@@ -32,6 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaklad1034&show_icons=true&locale=en&layout=compact" alt="sarthaklad1034" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sarthaklad1034&show_icons=true&locale=en" alt="sarthaklad1034" width="650" /></p>
-<br>
+<br><br>
 <p><img align="right" src="https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1000"/></p>
 
