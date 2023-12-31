@@ -31,7 +31,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaklad1034&show_icons=true&locale=en&theme=blue-green" alt="sarthaklad1034" width="320" height="250" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api?username=sarthaklad1034&show_icons=true&locale=en&theme=blue-green" alt="sarthaklad1034" width="620" align="right"/></p>
-&nbsp;
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1024"/></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sarthaklad1034&theme=blue-green&card_width=1024" margin-top="20"/></a></p>
 
 
