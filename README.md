@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [www.hashnode.com/@InfinitySurvivor](https://www.hashnode.com/@InfinitySurvivor)
 
-- 💬 Ask me about **Front End Development, Java**
+- 💬 Ask me about **Front End Development, Java and MySQL**
 
 - 📫 How to reach me **sarthaklad1034@gmail.com**
 <br><p align="left">
